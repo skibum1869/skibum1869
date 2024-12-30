@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Skibum1869's GitHub stats](https://github-readme-stats.vercel.app/api?username=skibum1869)](https://github.com/skibum1869/github-readme-stats)
 
 <!--
 **skibum1869/skibum1869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
