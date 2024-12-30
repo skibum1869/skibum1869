@@ -1,5 +1,15 @@
-[![Skibum1869's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=skibum1869&show=prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/skibum1869/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skibum1869&langs_count=10&theme=dark#gh-dark-mode-only)](https://github.com/skibum1869/github-readme-stats#gh-dark-mode-only)
-[![Skibum1869's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=skibum1869&show=prs_merged,prs_merged_percentage&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/skibum1869/github-readme-stats#gh-light-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skibum1869&langs_count=10&theme=default#gh-light-mode-only)](https://github.com/skibum1869/github-readme-stats#gh-light-mode-only)
+<a href="https://github.com/skibum1869/github-readme-stats#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=skibum1869&show=prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/skibum1869/github-readme-stats#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skibum1869&langs_count=5&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/skibum1869/github-readme-stats#gh-light-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=skibum1869&show=prs_merged,prs_merged_percentage&show_icons=true&theme=default#gh-light-mode-only" />
+</a>
+<a href="https://github.com/skibum1869/github-readme-stats#gh-light-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skibum1869&langs_count=5&theme=default#gh-light-mode-only" />
+</a>
 
 
 <!--
